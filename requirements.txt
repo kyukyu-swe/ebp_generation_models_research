@@ -1,0 +1,9 @@
+accelerate
+peft
+bitsandbytes 
+transformers 
+langchain 
+langchain_community 
+langchain_huggingface 
+nest_asyncio 
+faiss-gpu
